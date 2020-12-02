@@ -1,3 +1,3 @@
-def add(x, y, z):
+def add(x, y):
     return x + y
 
