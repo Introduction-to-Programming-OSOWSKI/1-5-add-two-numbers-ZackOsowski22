@@ -1,1 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
+def add(x, y, z):
+    return x + y
+
